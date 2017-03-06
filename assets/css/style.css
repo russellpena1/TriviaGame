@@ -1,0 +1,121 @@
+* {
+	
+	box-sizing: border-box;
+
+}
+
+body {
+	
+	background-image: url('../images/background2.png');
+    
+    background-repeat: repeat;
+	
+	color: #ffffff;
+
+	font-size: 15px;
+	
+}
+
+header {
+	
+	width: 40%;
+	
+	margin-left: auto;
+	
+	text-align: center;
+	
+	margin-right: auto;
+
+} 
+
+
+header {
+	
+	height: 100px;
+
+	background-color: blue;
+	
+	
+}
+
+section {
+	
+	margin-left: auto;
+    
+    width: 75%;
+
+    margin-right: auto;
+    
+    text-align: center
+
+}
+
+header h1 {
+	
+	font-size: 40px;
+	
+	font-style: bold;
+
+	padding: 30px;
+
+}
+
+h2 {
+	
+	padding-bottom: 10px;
+
+	font-size: 30px;
+	
+	padding-top: 10px;
+	
+}
+
+
+button {
+	
+	background-color: white;
+	
+	width: 20%;
+
+	height: 30px;
+	
+	margin-top: 30px;	
+
+}
+
+.main-section {
+    
+    padding-bottom: 10px;
+
+    background-color: red;
+    
+    color: #fff;
+    
+    width: 75%;
+    
+    
+}
+
+#submit, #restart, #results, .question, .answers {
+	
+	display: none;
+
+}
+
+.question {
+	
+	font-size: 20px;
+
+}
+
+.question, .answers {
+	
+	width: 75%;
+	
+	text-align: left;
+
+	margin-left: auto;
+    
+    margin-right: auto;
+    
+}
